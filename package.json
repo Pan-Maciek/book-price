@@ -1,0 +1,10 @@
+{
+  "name": "book-price",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2"
+  }
+}
